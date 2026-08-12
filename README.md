@@ -1,5 +1,30 @@
 # natmorita
 
-Me encanta **pintar**, diseñar y jugar videojuegos de terror. Estoy obsesionada con Jungkook, y funciono *sospechosamente* bien después de medianoche.
+Me encanta/an:
+- **pintar**
+- diseñar
+- bailar
+- dibujar 
+- jugar videojuegos de terror
+- los gatos
 
-Hago **arte**, pienso demasiado y vivo entre colores, ideas y *decisiones cuestionables*. 
+Me creo influencer, estoy obsesionada con Jungkook, y funciono *sospechosamente* bien después de medianoche.
+
+Hago arte, pienso **demasiado** y vivo entre colores, ideas y *decisiones cuestionables*. 
+
+                                                                            
+                                                                            
+                                                  ____                      
+                                                ,'  , `.                    
+              ,---.              ,---.       ,-+-,.' _ |   ,---.    __  ,-. 
+ ,--,  ,--,  '   ,'\            '   ,'\   ,-+-. ;   , ||  '   ,'\ ,' ,'/ /| 
+ |'. \/ .`| /   /   |   ,---.  /   /   | ,--.'|'   |  || /   /   |'  | |' | 
+ '  \/  / ;.   ; ,. :  /     \.   ; ,. :|   |  ,', |  |,.   ; ,. :|  |   ,' 
+  \  \.' / '   | |: : /    / ''   | |: :|   | /  | |--' '   | |: :'  :  /   
+   \  ;  ; '   | .; :.    ' / '   | .; :|   : |  | ,    '   | .; :|  | '    
+  / \  \  \|   :    |'   ; :__|   :    ||   : |  |/     |   :    |;  : |    
+./__;   ;  \\   \  / '   | '.'|\   \  / |   | |`-'       \   \  / |  , ;    
+|   :/\  \ ; `----'  |   :    : `----'  |   ;/            `----'   ---'     
+`---'  `--`           \   \  /          '---'                               
+                       `----'                                               
+                                                                            
