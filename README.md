@@ -1,5 +1,7 @@
 # natmorita
 
+Entre colores, código, obsesiones temporales y decisiones cuestionables.
+
 Me encanta/an:
 - **pintar**
 - diseñar
@@ -10,7 +12,7 @@ Me encanta/an:
 
 Me creo influencer, estoy obsesionada con Jungkook, y funciono *sospechosamente* bien después de medianoche.
 
-Hago arte, pienso **demasiado** y vivo entre colores, ideas y *decisiones cuestionables*. 
+Hago arte, pienso **demasiado** y vivo entre colores, ideas y canciones.
 
 ```text
 ──────▄▀▄─────▄▀▄
