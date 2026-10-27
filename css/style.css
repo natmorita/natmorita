@@ -1,0 +1,168 @@
+:root {
+    color-scheme: light;
+    --color-bg: #f3ede5;
+    --color-text: #52375b;
+    --color-accent: #f68ec3;
+    --font-title: 'Homemade Apple', cursive;
+    --font-body: 'Yuyu', cursive;
+}
+
+html.dark-theme {
+    color-scheme: dark;
+    --color-bg: #52375b;
+    --color-text: #f3ede5;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    transition: background 0.3s, color 0.3s;
+}
+
+h1 {
+    font-family: var(--font-title);
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-family: var(--font-title);
+    font-size: 2rem;
+    text-align: center;
+}   
+
+h3 {
+    font-family: var(--font-title);
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 1rem 0;
+    text-align: center;
+}  
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 3.5em auto;
+  display: block;
+  align-items: center;
+}
+
+img[alt="Logo de natmorita"] {
+  max-width: 70px;
+  height: auto;
+  margin: 1em auto;
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+  padding: 0.5em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  padding: 0;
+}
+
+.social-link {
+  font-size: 1.5rem;
+  display: inline-block;
+  padding: 1rem;
+  text-align: center;
+  color: var(--color-text);
+  corner-shape: squircle;
+  text-decoration: none;
+  border: 1px solid var(--color-accent);
+  border-radius: 0.5rem;
+}
+
+.social-link:hover {
+  color: var(--color-accent);
+  text-decoration: none;
+  border-color: var(--color-accent);
+}
+
+/*
+table {
+  font-size: 2rem;
+  border-collapse: collapse;
+  margin: 0 auto;
+  color: var(--color-accent);
+  padding: 2rem;
+}
+
+td, th {
+  border: 1px solid var(--color-text);
+  padding: 1.5rem;
+  text-align: center;
+}
+
+/*
+fa-brands, .fa-envelope, .fa-instagram, .fa-youtube {
+    font-size: 2rem;
+    margin: 0 1rem;
+    color: var(--color-accent);
+}
+
+fa-youtube:hover, .fa-instagram:hover, .fa-moon:hover, .fa-envelope:hover, .fa-youtube:hover{
+    color: var(--color-text);
+    cursor: pointer;
+}
+*/
+
+fa-moon {
+    font-size: 2rem;
+    margin: 0 1rem;
+    color: var(--color-accent);
+}
+
+footer hr {
+    border: 0;
+    height: 0.5px;
+    background: var(--color-accent);
+    margin: 1rem 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: var(--color-bg);
+        color: var(--color-text);
+    } 
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+    }
+
+    table {
+        font-size: 1.2rem;
+    }
+}
+
+
